@@ -746,4 +746,4 @@ client.on('message' , async (message) => {
 
 
 
-client.login('NDY0NTI4ODMzMjcwMjUxNTI2.D1L7Sw.6glAvQfnr18WzS6CMc9VVmmVhUM')
+client.login('NTQ1MzgzNDIyMjkwNDI3OTE0.D1L8uQ.Q_8vrqZMDTuuKJTJ9fX2CUNjTYY')
